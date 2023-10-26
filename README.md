@@ -29,7 +29,7 @@ These instructions will get project running on your local machine for developmen
 #### Check Node Version
 
 Check version with this command, `node -v`
-Node version should be v16 or v16+
+Node version should be v18 or v18+
 
 If you need to update `npm`, you can make it using `npm`! Cool right? After running the following command, just open again the command line and be happy.
 
